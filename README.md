@@ -1,0 +1,1 @@
+Experimenting slack bot using Go language
